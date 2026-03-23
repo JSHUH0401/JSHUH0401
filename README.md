@@ -15,6 +15,23 @@
 ### 주요 프로젝트
 
 #### 1. 무인카페 기반 재고 관리 시스템 구축 프로젝트(개인)
+
+<details>
+<summary><b>무인카페 프로젝트 실물 화면</b></summary>
+<br>
+
+| 실시간 재고현황 대시보드 | 발주 관리창 | 재고 실사 관리창 |
+| :---: | :---: | :---: |
+| <img src="https://github.com/JSHUH0401/Inventory-Management-System/raw/main/Streamlit/Images/Dashboard.png" width="100%"> | <img src="https://github.com/JSHUH0401/Inventory-Management-System/raw/main/Streamlit/Images/Order.png" width="100%"> | <img src="https://github.com/JSHUH0401/Inventory-Management-System/raw/main/Streamlit/Images/StockCount.png" width="100%"> |
+
+<br>
+
+| DB 및 품목 관리창 | AI 재고진단 및 QnA |
+| :---: | :---: |
+| <img src="https://github.com/JSHUH0401/Inventory-Management-System/raw/main/Streamlit/Images/MasterData.png" width="450px"> | <img src="https://github.com/JSHUH0401/Inventory-Management-System/raw/main/Streamlit/Images/AIAgent.png" width="450px"> |
+
+</details>
+
 - **Problem:** 수작업으로 인한 데이터 누락 및 실시간 재고 파악의 어려움 발생
 - **Solution:** 지수평활법 기반 일일평균소진량 예측 로직과 Supabase/Streamlit을 연동한 실시간 재고 관리 및 AI 진단 시스템 구축
 - **Focus:** 판매 기회 상실로 이어지는 재고품절 방지 및 데이터 정합성 확보
