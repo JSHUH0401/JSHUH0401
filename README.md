@@ -8,7 +8,7 @@
 
 ### 기술 스택
 - **Languages:** Python, SQL
-- **Tools:** GitHub, MS Office(Excel, PPT, Word)
+- **Tools:** GitHub, MS Office(Excel, PPT, Word), Teams, Slack
 
 ---
 
@@ -44,7 +44,7 @@
 #### 2. 소상공인 디지털전환 프로젝트(컨설팅 학회 BACS)
 
 <details>
-<summary><b>📸 소상공인 디지털 전환(녹원) 프로젝트 실물 화면 (클릭하여 보기)</b></summary>
+<summary><b> 소상공인 디지털 전환(녹원) 프로젝트 실물 화면 (클릭하여 보기)</b></summary>
 <br>
 
 #### 온/오프라인 통합 매출 분석 대시보드
