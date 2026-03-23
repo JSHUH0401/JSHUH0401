@@ -17,7 +17,7 @@
 #### 1. 무인카페 기반 재고 관리 시스템 구축 프로젝트(개인)
 
 <details>
-<summary><b>무인카페 프로젝트 실물 화면</b></summary>
+<summary><b>프로젝트 실물 화면</b></summary>
 <br>
 
 | 실시간 재고현황 대시보드 | 발주 관리창 | 재고 실사 관리창 |
@@ -44,12 +44,12 @@
 #### 2. 소상공인 디지털전환 프로젝트(컨설팅 학회 BACS)
 
 <details>
-<summary><b> 소상공인 디지털 전환(녹원) 프로젝트 실물 화면 (클릭하여 보기)</b></summary>
+<summary><b> 프로젝트 실물 화면</b></summary>
 <br>
 
 #### 온/오프라인 통합 매출 분석 대시보드
-<img src="https://github.com/user-attachments/assets/cd0001f8-308e-47cc-9a41-175ff746ae1f" width="100%">
-<p align="center"><i>[Dashboard] 채널별 분산된 매출 데이터 통합 및 핵심 경영 지표 시각화</i></p>
+<img width="1243" height="1187" alt="Image" src="https://github.com/user-attachments/assets/bc741152-f300-4aca-845d-b858f2b3cb44" width="100%">
+<p align="center"> 채널별 분산된 매출 데이터 통합 및 핵심 경영 지표 시각화(보안상 매출 관련 지표는 마스킹처리 하였습니다.)</p>
 
 <br>
 <hr>
@@ -57,7 +57,7 @@
 
 #### Excel Solver 기반 인력 스케줄링 최적화 솔루션
 <img width="2185" height="1220" alt="Image" src="https://github.com/user-attachments/assets/9f804c2b-a764-4781-b613-3a4e47fd0c1f" width="100%">
-<p align="center"><i>[Optimization] 현장 제약 조건을 반영한 수리 모델 기반 스케줄링 자동화 (기존 대비 소요 시간 75% 절감)</i></p>
+<p align="center">현장 제약 조건을 반영한 수리 모델 기반 스케줄링 자동화 (기존 대비 소요 시간 75% 절감)</p>
 
 <br>
 
